@@ -249,7 +249,10 @@ int main(void)
 
 ## 6. 實驗結果
 
-![Demo](images/demo.jpg)
+
+https://github.com/user-attachments/assets/99b72375-1bc9-4f8a-bc9c-ea037713176f
+
+
 
 | 測試項目 | 預期 | 結果 |
 |---|---|---|
