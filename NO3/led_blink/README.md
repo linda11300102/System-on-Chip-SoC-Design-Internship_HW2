@@ -139,7 +139,7 @@ EGO-XZ7 的 LED0 接在 **PL 腳位 T22**，因此在 PL 加一個 AXI GPIO，�
 |---|---|---|---|
 | `0x000` | **GPIO_DATA** | 輸出資料，bit0 → LED0 | `1` = 亮、`0` = 暗 |
 | `0x004` | **GPIO_TRI** | 方向，0 = 輸出、1 = 輸入 | `0` |
-
+<img width="1000" height="156" alt="led_blinking_GPIO_DATA" src="https://github.com/user-attachments/assets/c9e82300-cdce-46f0-b1f2-fa8a8f61f76a" />
 （暫存器定義：PG144《AXI GPIO Product Guide》）
 
 ### 3.4 腳位限制（[`vivado/pin.xdc`](vivado/pin.xdc)）
