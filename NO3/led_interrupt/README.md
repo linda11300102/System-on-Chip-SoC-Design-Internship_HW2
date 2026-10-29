@@ -1,3 +1,4 @@
+
 # HW2 作業 2：以中斷控制 LED（Zynq-7020 / EGO-XZ7）
 
 > **功能**：LED0 每秒閃一次（延續作業 1）；按下按鈕時，透過**硬體中斷**讓 LED1 **立刻**切換亮暗。
@@ -136,9 +137,7 @@ PL 送到 PS 的中斷 `IRQ_F2P[7:0]` 對應 ID 61～68，`IRQ_F2P[15:8]` 對應
 ## 4. 硬體設計（Vivado）
 
 ### 4.1 Block Design
-
-![Block Design](images/block_design.png)
-
+<img width="1193" height="488" alt="LED_Blinking" src="https://github.com/user-attachments/assets/a11eb6fc-cd46-4b05-bc80-8c5de894010b" />
 | 元件 | 設定 |
 |---|---|
 | **ZYNQ7 Processing System** | M_AXI_GP0 開啟；FCLK_CLK0 = 50 MHz；**Interrupts → Fabric Interrupts → IRQ_F2P[15:0] 開啟**；EMIO GPIO 不開 |
