@@ -329,9 +329,7 @@ while (1) {
 ---
 
 ## 7. 實驗結果
-
-![Demo](images/demo.jpg)
-
+https://github.com/user-attachments/assets/e7b14b4c-4269-403e-91a0-20754ef332a4
 | 測試動作 | 預期結果 | 實際結果 |
 |---|---|---|
 | 不按按鈕 | LED0 每秒切換一次，LED1 不變 | ✅ 符合 |
