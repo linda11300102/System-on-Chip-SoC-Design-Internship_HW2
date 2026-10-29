@@ -91,8 +91,7 @@ sequenceDiagram
 ## 3. 硬體設計（Vivado）
 
 ### 3.1 Block Design
-
-![Block Design](images/block_design.png)
+<img width="1193" height="488" alt="LED_Blinking" src="https://github.com/user-attachments/assets/d059ca15-507d-482c-803c-c577ac265b97" />
 
 | 元件 | 設定 |
 |---|---|
