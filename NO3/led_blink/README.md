@@ -128,8 +128,8 @@ EGO-XZ7 的 LED0 接在 **PL 腳位 T22**，因此在 PL 加一個 AXI GPIO，�
 <img width="465" height="45" alt="LED0" src="https://github.com/user-attachments/assets/d983cafb-91c1-4d05-b2ea-424ee8fed601" />
 
 ### 3.3 Address Map
+<img width="942" height="148" alt="LED_Blinking_Address Editor" src="https://github.com/user-attachments/assets/8f54948b-e952-40aa-98ed-7cd79cb488f4" />
 
-![Address Editor](images/address_editor.png)
 
 | Slave | Base Address | Range |
 |---|---|---|
