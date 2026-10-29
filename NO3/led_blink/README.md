@@ -125,6 +125,7 @@ sequenceDiagram
 | **AXI GPIO** | **PL 的 IP** | **FPGA 腳位** | ✅ |
 
 EGO-XZ7 的 LED0 接在 **PL 腳位 T22**，因此在 PL 加一個 AXI GPIO，由 CPU 透過 AXI 匯流排控制。
+<img width="465" height="45" alt="LED0" src="https://github.com/user-attachments/assets/d983cafb-91c1-4d05-b2ea-424ee8fed601" />
 
 ### 3.3 Address Map
 
